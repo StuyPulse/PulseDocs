@@ -1,0 +1,8 @@
+site_name: PulseDocs
+pages:
+    - Home: index.md
+    - Stuypulse Lib: stuylib/index.md
+    - Tutorials: tutorials/index.md
+    - Newbie Education: newbie-edu/index.md
+    - The Vault: vault/index.md
+theme: united
