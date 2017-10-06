@@ -4,5 +4,7 @@ pages:
     - Stuypulse Lib: stuylib/index.md
     - Tutorials: tutorials/index.md
     - Newbie Education: newbie-edu/index.md
-    - The Vault: vault/index.md
+    - The Vault: 
+        - Home: vault/index.md
+        - Radios: vault/radios.md
 theme: united
