@@ -1,10 +1,18 @@
 site_name: PulseDocs
 pages:
     - Home: index.md
-    - Stuypulse Lib: stuylib/index.md
+    - StuyPulse Lib: stuylib/index.md
     - Tutorials: tutorials/index.md
+    - "CV & Motion Control":
+        - Index of CV Resources: cv/index.md
+        - Camera setup: cv/camera-configuration.md
+        - Vision and tuning: cv/vision-and-tuning.md
+        - Motion profiling: cv/motion-profiling.md
+        - Misc: cv/misc.md
+        - "Jetson ('Tegra')": cv/jetson.md
+        - Case Study (blur and erode+dilate): cv/case-study-2016.md
     - Newbie Education: newbie-edu/index.md
-    - The Vault: 
+    - The Vault:
         - Home: vault/index.md
         - Radios: vault/radios.md
 theme: united
