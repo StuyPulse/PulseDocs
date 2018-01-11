@@ -10,13 +10,13 @@ it'll stay in memory for an indefinite time until Java cleans it up (frees it).
 This is a memory leak.
 
 In 2016, a few times we demoed CV, repeatedly running the routine to aim and
-shoot. After 20-30min of this, we'd get a `java.lang.OutOfMemoryError`.
+shoot. After 20-30min of this, we'd get a `java.lang.OutOfMemoryError`. This
+never happened in a match (which is of course much shorter).
 
 The consequence: the code unconditionally crashes. Don't try to
 catch this kind of error. (There's a reason some errors in Java
 are `Error`s and not `Exception`s: `Error`s cannot be recovered
-from.) This never happened in a match (which is of course much
-shorter).
+from.)
 
 ### The solution
 

@@ -1,9 +1,9 @@
 # Case Study 2016: blur and erode/dilate
 
-*Note: this is not the code we used. The sample images provided by FIRST were
-awful (e.g.  high exposure). With proper settings, using blur (as was necessary
-for these sample images) is probably overkill. Erode/dilate may still be very
-useful.*
+*Note: This is not the code we used for competition. The sample images provided
+by FIRST were awful (e.g.  high exposure). With reflexite targets and proper
+camera settings, using blur (as was necessary for these sample images) is
+probably overkill. Erode/dilate may still be very useful.*
 
 In this lesson we discussed methods for smoothing out
 images.
