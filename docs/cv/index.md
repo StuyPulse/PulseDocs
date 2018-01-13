@@ -15,6 +15,8 @@ a [detailed walkthrough](https://docs.google.com/presentation/d/1-cAMxt7CmLMxYLi
 
 And resources from outside of the team:
 
+- Installing OpenCV 3.2.0 [instructions](https://milq.github.io/install-opencv-ubuntu-debian/).
+
 - Official OpenCV 3.1.0 [JavaDocs](http://docs.opencv.org/java/3.1.0/).
 
 - Official OpenCV 2.4 [documentation](http://docs.opencv.org/2.4/index.html).
