@@ -2,9 +2,23 @@ site_name: PulseDocs
 pages:
     - Home: index.md
     - Stuypulse Lib: stuylib/index.md
-    - Tutorials: tutorials/index.md
-    - Newbie Education: newbie-edu/index.md
+    - Tutorials:
+        - Home: tutorials/index.md
+        - CV: 
+            - Home: tutorials/cv/cv.md
+            - Downloading and Installing: tutorials/cv/download.md
+            - Camera Configuraton: tutorials/cv/camera-configuration.md
+            - 2016 CV Implementation: tutorials/cv/case-study-2016.md
+            - Discrete Graphics for the Robot: tutorials/cv/jetson.md
+            - Miscellaneous Issues with CV: tutorials/cv/misc.md
+            - Stuyvision Lib: tutorials/cv/vision-and-tuning.md
+    - Newbie Education:
+            - Home: newbie-edu/index.md 
+            - 2018 Review: newbie-edu/2018-edu.md
     - The Vault: 
         - Home: vault/index.md
         - Radios: vault/radios.md
+        - Competition: vault/competition.md
+        - Roborio: vault/roborio.md
+        - JRE: vault/jre.md
 theme: united
