@@ -4,6 +4,7 @@ pages:
     - StuyPulse Lib: stuylib/index.md
     - Tutorials: tutorials/index.md
     - "CV & Motion Control":
+        - Setting up OpenCV and stuyvision: cv/setup.md
         - Index of CV Resources: cv/index.md
         - Camera setup: cv/camera-configuration.md
         - Vision and tuning: cv/vision-and-tuning.md
