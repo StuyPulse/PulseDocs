@@ -12,6 +12,8 @@ pages:
             - Discrete Graphics for the Robot: tutorials/cv/jetson.md
             - Miscellaneous Issues with CV: tutorials/cv/misc.md
             - Stuyvision Lib: tutorials/cv/vision-and-tuning.md
+        - Autonomous Routines:
+            - Mobility Auton: tutorials/autons/mobility.md
     - Newbie Education:
             - Home: newbie-edu/index.md 
             - 2018 Review: newbie-edu/2018-edu.md
