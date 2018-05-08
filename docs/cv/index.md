@@ -1,12 +1,20 @@
-# Index of CV resources
+# Computer Vision (CV)
+
+_Let your robot see!_
+
+Computer Vision (CV) can be as essential asset in the right game. In 2016 (Stronghold), CV was essential to our robot's functioning, with our robot able to see the goalpost, and use its position in the frame to align, scoring the boulders with very high accuracy, something which we used in TeleOp as well, much more efficient than our drive team. 
+
+## Other CV resources
+
+For more practice, visit our GitHub pages on CV Education for our members (examples + docs of library functions):
+
+- [2017 Page](https://github.com/Team694/cv-edu-2017)
+- [2018 Page](https://github.com/Team694/cv-edu-2018)
 
 In addition to the documentation here on MkDocs, we have:
 
 - [Team694/stuyvision-lib](https://github.com/Team694/stuyvision-lib),
   an in-house GUI to help with tuning.
-
-- [Team694/cv-edu-2017](https://github.com/Team694/cv-edu-2017), an example
-  of a project using this library for simple vision processing.
 
 - a few presentations by our members:
 a [high-level talk](https://docs.google.com/a/stuypulse.com/presentation/d/1KvPWpPO9rFjTZ3nKJy4rmbvxRiOo2EwrciE0fggv8xM/edit?usp=sharing),
@@ -29,3 +37,4 @@ And resources from outside of the team:
 
 - Talks by Team 254: [Integrating Computer Vision with Motion Control](https://www.team254.com/documents/vision-control/)
   and [Motion Planning & Control in FRC](https://youtu.be/8319J1BEHwM).
+

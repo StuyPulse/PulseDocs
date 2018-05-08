@@ -4,26 +4,22 @@ pages:
     - Stuypulse Lib: stuylib/index.md
     - Tutorials:
         - Home: tutorials/index.md
-        - CV: 
-            - Home: tutorials/cv/cv.md
-            - Downloading and Installing: tutorials/cv/download.md
-            - Camera Configuraton: tutorials/cv/camera-configuration.md
-            - 2016 CV Implementation: tutorials/cv/case-study-2016.md
-            - Discrete Graphics for the Robot: tutorials/cv/jetson.md
-            - Miscellaneous Issues with CV: tutorials/cv/misc.md
-            - Stuyvision Lib: tutorials/cv/vision-and-tuning.md
+        - CV:
+            - Home: cv/index.md
             - Setting up OpenCV and stuyvision: cv/setup.md
-            - Index of CV Resources: cv/index.md
-            - Camera setup: cv/camera-configuration.md
-            - Vision and tuning: cv/vision-and-tuning.md
-            - Motion profiling: cv/motion-profiling.md
+            - Camera Setup: tutorials/cv/camera-setup.md
+            - Stuyvision Lib: tutorials/cv/vision-and-tuning.md
+            - "Walkthrough: Blur, Erode, Dilate": tutorials/cv/walkthrough-blur-erode-dilate.md
+            - NVIDIA Jetson: tutorials/cv/jetson.md
+            - Miscellaneous Issues with CV: tutorials/cv/misc.md
+            - Motion profiling: tutorials/cv/motion-profiling.md
 
         - Autonomous Routines:
             - Mobility Auton: tutorials/autons/mobility.md
     - Newbie Education:
-            - Home: newbie-edu/index.md 
+            - Home: newbie-edu/index.md
             - 2018 Review: newbie-edu/2018-edu.md
-    - The Vault: 
+    - The Vault:
         - Home: vault/index.md
         - Radios: vault/radios.md
         - Competition: vault/competition.md
