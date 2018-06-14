@@ -8,7 +8,7 @@ pages:
             - Home: cv/index.md
             - Setting up OpenCV and stuyvision: cv/setup.md
             - Camera Setup: tutorials/cv/camera-setup.md
-            - Stuyvision Lib: tutorials/cv/vision-and-tuning.md
+            - Vision and Tuning: tutorials/cv/vision-and-tuning.md
             - "Walkthrough: Blur, Erode, Dilate": tutorials/cv/walkthrough-blur-erode-dilate.md
             - NVIDIA Jetson: tutorials/cv/jetson.md
             - Miscellaneous Issues with CV: tutorials/cv/misc.md

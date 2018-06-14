@@ -1,8 +1,14 @@
 # Vision and Tuning
 
+## Useful OpenCV functions
+
+In [cv-edu-2017](https://github.com/Team694/cv-edu-2017#opencv-functions)'s
+README, there are descriptions of some often-used OpenCV functions.
+
 ## `stuyvision-lib`
-stuyvision-lib is a simple library with which you can run a GUI that makes it
-easier to tune your vision code.
+
+[stuyvision-lib](https://github.com/Team694/stuyvision-lib) is a simple library
+with which you can run a GUI that makes it easier to tune your vision code.
 
 Overview of classes in `stuyvision-lib`:
 
@@ -70,8 +76,3 @@ distance your code has calculated below the image.
 ```java
 postTag("Filtered frame", "Number of contours", Integer.toString(numberOfContours));
 ```
-
-## Useful OpenCV functions
-
-In [cv-edu-2017](https://github.com/Team694/cv-edu-2017#opencv-functions)'s
-README, there are descriptions of some often-used OpenCV functions.
