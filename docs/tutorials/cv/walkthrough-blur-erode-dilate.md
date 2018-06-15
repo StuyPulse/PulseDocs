@@ -1,9 +1,10 @@
-# Case Study 2016: blur and erode/dilate
+# Walkthrough: blur and erode/dilate (case study 2016)
 
-*Note: This is not the code we used for competition. The sample images provided
-by FIRST were awful (e.g.  high exposure). With reflexite targets and proper
-camera settings, using blur (as was necessary for these sample images) is
-probably overkill. Erode/dilate may still be very useful.*
+*Note: This code processes the 2016 sample images, but is not what we used for
+competition.  The sample images provided by FIRST were not good (e.g. high
+exposure). With reflexite targets and proper camera settings, using blur (as
+was necessary for these sample images) is probably overkill. Erode/dilate may
+still be very useful.*
 
 In this lesson we discussed methods for smoothing out
 images.
