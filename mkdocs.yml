@@ -1,8 +1,6 @@
 site_name: PulseDocs
 theme: 
     name: material
-    
-
 pages:
     - Home: index.md
     - Stuypulse Lib: stuylib/index.md
