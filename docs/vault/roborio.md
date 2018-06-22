@@ -7,3 +7,11 @@ Or you would have if you were on the team a few years ago. Installing Java is no
 In order to reconfigure the radio, connect it to the laptop with a USB only, using the printer cables, and run the roboRIO imaging tool. For more detailed instructions, visit:
 
 [https://wpilib.screenstepslive.com/s/currentCS/m/getting_started/l/144984-imaging-your-roborio]("https://wpilib.screenstepslive.com/s/currentCS/m/getting_started/l/144984-imaging-your-roborio")
+
+To ssh into the roboRIO,
+
+type `ssh admin@roboRIO-694-FRC.local`
+
+To sftp (if you need to transfer files),
+
+type `sftp admin@roboRIO-694-FRC.local`
