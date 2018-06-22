@@ -8,7 +8,8 @@ pages:
         - Home: tutorials/index.md
         - CV:
             - Home: cv/index.md
-            - Setting up OpenCV and stuyvision: cv/setup.md
+            - Setting up OpenCV and stuyvision for Windows + Linux: cv/setup.md
+            - Setting up OpenCV and stuyvision for Mac: tutorials/cv/mac-setup.md
             - Camera Setup: tutorials/cv/camera-setup.md
             - Vision and Tuning: tutorials/cv/vision-and-tuning.md
             - "Walkthrough: Blur, Erode, Dilate": tutorials/cv/walkthrough-blur-erode-dilate.md
