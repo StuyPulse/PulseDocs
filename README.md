@@ -8,8 +8,8 @@ Pulsedocs uses MKDocs.
 
 **Prerequisites:**
 
-1) Ensure MKDocs is installed with `pip install mkdocs`
-2) Ensure mkdocs-material is installed with `pip install mkdocs-material`
+1) Ensure MKDocs is installed with `pip3 install mkdocs`
+2) Ensure mkdocs-material is installed with `pip3 install mkdocs-material`
 
 **Testing**
 
