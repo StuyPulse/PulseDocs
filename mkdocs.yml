@@ -22,6 +22,7 @@ pages:
     - Newbie Education:
             - Home: newbie-edu/index.md
             - 2018 Review: newbie-edu/2018-edu.md
+            - 2019 Review: newbie-edu/2019-edu.md
     - The Vault:
         - Home: vault/index.md
         - Radios: vault/radios.md
